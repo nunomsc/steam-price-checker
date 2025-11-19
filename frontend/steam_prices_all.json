@@ -1,0 +1,5798 @@
+[
+    {
+        "id": "1091500",
+        "name": "Cyberpunk 2077",
+        "price": 59.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:50:41"
+    },
+    {
+        "id": "594570",
+        "name": "Total War: WARHAMMER II",
+        "price": 59.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:50:42"
+    },
+    {
+        "id": "330390",
+        "name": "GRANDIA II HD Remaster",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:50:44"
+    },
+    {
+        "id": "71000",
+        "name": "Evochron Mercenary",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:50:45"
+    },
+    {
+        "id": "296570",
+        "name": "Lords of Xulima",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:50:46"
+    },
+    {
+        "id": "251810",
+        "name": "Leadwerks Game Engine",
+        "price": 48.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:50:47"
+    },
+    {
+        "id": "239120",
+        "name": "Final Fantasy III (3D Remake)",
+        "price": 6.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:50:49"
+    },
+    {
+        "id": "382900",
+        "name": "FINAL FANTASY VI (Old ver.)",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 12:50:50"
+    },
+    {
+        "id": "402020",
+        "name": "The Park®",
+        "price": 12.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:50:51"
+    },
+    {
+        "id": "346830",
+        "name": "FINAL FANTASY IV: THE AFTER YEARS",
+        "price": 7.24,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:50:52"
+    },
+    {
+        "id": "418910",
+        "name": "Idle Civilization",
+        "price": 4.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:50:54"
+    },
+    {
+        "id": "251290",
+        "name": "The Legend of Heroes: Trails in the Sky SC",
+        "price": 18.19,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:50:55"
+    },
+    {
+        "id": "298050",
+        "name": "Master of Orion",
+        "price": 20.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:50:56"
+    },
+    {
+        "id": "230290",
+        "name": "Universe Sandbox",
+        "price": 28.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:50:57"
+    },
+    {
+        "id": "269770",
+        "name": "Secrets of Grindea",
+        "price": 13.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:50:59"
+    },
+    {
+        "id": "282590",
+        "name": "Star Ruler 2",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:51:00"
+    },
+    {
+        "id": "312540",
+        "name": "Ys VI: The Ark of Napishtim",
+        "price": 4.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:51:02"
+    },
+    {
+        "id": "228760",
+        "name": "TrackMania² Canyon",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:51:03"
+    },
+    {
+        "id": "107821",
+        "name": "Rochard: Hard Times",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 12:51:04"
+    },
+    {
+        "id": "220660",
+        "name": "StarDrive",
+        "price": 27.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:51:06"
+    },
+    {
+        "id": "94202",
+        "name": "Jamestown: Gunpowder, Treason, & Plot",
+        "price": 2.39,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:51:07"
+    },
+    {
+        "id": "34343",
+        "name": "Total War: SHOGUN 2 - Rise of the Samurai Campaign",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:51:08"
+    },
+    {
+        "id": "214130",
+        "name": "Aerofly FS 1 Flight Simulator",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 12:52:58"
+    },
+    {
+        "id": "205080",
+        "name": "BIT.TRIP FATE",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:52:59"
+    },
+    {
+        "id": "221020",
+        "name": "Towns",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:53:00"
+    },
+    {
+        "id": "248390",
+        "name": "Craft The World",
+        "price": 18.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:53:02"
+    },
+    {
+        "id": "273580",
+        "name": "Descent 2",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:53:03"
+    },
+    {
+        "id": "291250",
+        "name": "Jumpdrive",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:53:04"
+    },
+    {
+        "id": "268930",
+        "name": "Malevolence: The Sword of Ahkranox",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 12:53:05"
+    },
+    {
+        "id": "201271",
+        "name": "A Total War Saga: FALL OF THE SAMURAI",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:53:06"
+    },
+    {
+        "id": "108600",
+        "name": "Project Zomboid",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:53:08"
+    },
+    {
+        "id": "97330",
+        "name": "Magic: The Gathering - Duels of the Planeswalkers 2013",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 12:53:09"
+    },
+    {
+        "id": "237870",
+        "name": "Planet Explorers",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 12:53:10"
+    },
+    {
+        "id": "236470",
+        "name": "PAC-MAN MUSEUM™",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 12:53:12"
+    },
+    {
+        "id": "229270",
+        "name": "Painkiller Hell & Damnation: Heaven's Above",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:53:13"
+    },
+    {
+        "id": "273620",
+        "name": "Freespace 2",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:53:14"
+    },
+    {
+        "id": "270941",
+        "name": "Axis Game Factory's AGFPRO Fantasy Side-Scroller Player",
+        "price": 8.19,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:53:16"
+    },
+    {
+        "id": "312750",
+        "name": "Final Fantasy IV (3D Remake)",
+        "price": 7.24,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:53:17"
+    },
+    {
+        "id": "292180",
+        "name": "X-Plane 10 Global - 64 Bit",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 12:53:19"
+    },
+    {
+        "id": "65216",
+        "name": "Train Simulator: Edinburgh-Glasgow Route Add-On",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:53:20"
+    },
+    {
+        "id": "252470",
+        "name": "Space Pirates And Zombies 2",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:53:22"
+    },
+    {
+        "id": "277748",
+        "name": "Train Simulator: West Highland Line Extension Route Add-On",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:53:23"
+    },
+    {
+        "id": "221100",
+        "name": "DayZ",
+        "price": 47.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:53:24"
+    },
+    {
+        "id": "342000",
+        "name": "FSX: Steam Edition - Around The World In 80 Flights Add-On",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 12:53:26"
+    },
+    {
+        "id": "314230",
+        "name": "Rodina",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:53:27"
+    },
+    {
+        "id": "340170",
+        "name": "FINAL FANTASY TYPE-0™ HD",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:53:28"
+    },
+    {
+        "id": "347940",
+        "name": "Forsaken Isle",
+        "price": 11.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:53:29"
+    },
+    {
+        "id": "325950",
+        "name": "Train Simulator: BR GT3 Turbine Loco Add-On",
+        "price": 13.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:53:31"
+    },
+    {
+        "id": "321300",
+        "name": "Mount & Blade: Warband - Viking Conquest Reforged Edition",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 12:53:32"
+    },
+    {
+        "id": "329130",
+        "name": "Reassembly",
+        "price": 12.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:02:53"
+    },
+    {
+        "id": "330460",
+        "name": "Celestial Command",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:02:55"
+    },
+    {
+        "id": "331880",
+        "name": "Truck Mechanic Simulator 2015",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:02:56"
+    },
+    {
+        "id": "377900",
+        "name": "Empire TV Tycoon",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:02:57"
+    },
+    {
+        "id": "373020",
+        "name": "Blender Game Asset Creation",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 13:02:58"
+    },
+    {
+        "id": "369530",
+        "name": "Void Destroyer 2",
+        "price": 8.19,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:02:59"
+    },
+    {
+        "id": "403190",
+        "name": "Planetbase",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:01"
+    },
+    {
+        "id": "408300",
+        "name": "Organ Trail - Final Cut Expansion",
+        "price": 3.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:02"
+    },
+    {
+        "id": "388060",
+        "name": "The Escapists: The Walking Dead",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:03"
+    },
+    {
+        "id": "392470",
+        "name": "NOBUNAGA'S AMBITION: Sphere of Influence",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:05"
+    },
+    {
+        "id": "365900",
+        "name": "Pixel Dungeon",
+        "price": 4.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:06"
+    },
+    {
+        "id": "249550",
+        "name": "NEStalgia",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:07"
+    },
+    {
+        "id": "252450",
+        "name": "StarDrive 2",
+        "price": 27.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:09"
+    },
+    {
+        "id": "252530",
+        "name": "OMSI 2: Steam Edition",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:10"
+    },
+    {
+        "id": "252870",
+        "name": "PULSAR: Lost Colony",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:11"
+    },
+    {
+        "id": "253250",
+        "name": "Stonehearth",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:13"
+    },
+    {
+        "id": "263920",
+        "name": "Zombie Grinder",
+        "price": 8.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:14"
+    },
+    {
+        "id": "259450",
+        "name": "Drifter",
+        "price": 11.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:15"
+    },
+    {
+        "id": "216172",
+        "name": "AirMech Strike Pack",
+        "price": 8.19,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:17"
+    },
+    {
+        "id": "293760",
+        "name": "Automation - The Car Company Tycoon Game",
+        "price": 26.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:18"
+    },
+    {
+        "id": "305510",
+        "name": "Servo",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 13:03:19"
+    },
+    {
+        "id": "311560",
+        "name": "Assassin’s Creed® Rogue",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:20"
+    },
+    {
+        "id": "312370",
+        "name": "Warhammer 40,000: Armageddon",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 13:03:22"
+    },
+    {
+        "id": "308173",
+        "name": "Hegemony III: Clash of the Ancients",
+        "price": 27.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:23"
+    },
+    {
+        "id": "307780",
+        "name": "Mortal Kombat X",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:24"
+    },
+    {
+        "id": "306370",
+        "name": "World of Subways 1 – The Path",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:26"
+    },
+    {
+        "id": "277742",
+        "name": "Train Simulator: The Story of Forest Rail Route Add-On",
+        "price": 21.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:27"
+    },
+    {
+        "id": "270270",
+        "name": "Frozen State",
+        "price": 11.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:28"
+    },
+    {
+        "id": "270010",
+        "name": "Time Rifters",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:29"
+    },
+    {
+        "id": "277767",
+        "name": "Train Simulator: Chengdu - Suining High Speed Route Add-On",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:31"
+    },
+    {
+        "id": "279140",
+        "name": "Making History: The Great War",
+        "price": 28.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:32"
+    },
+    {
+        "id": "288120",
+        "name": "Dungeonmans",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:33"
+    },
+    {
+        "id": "280360",
+        "name": "Interstellaria",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:03:35"
+    },
+    {
+        "id": "2210",
+        "name": "Quake 4",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:08:52"
+    },
+    {
+        "id": "42670",
+        "name": "Singularity™",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:08:54"
+    },
+    {
+        "id": "42810",
+        "name": "For The Glory: A Europa Universalis Game",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:08:55"
+    },
+    {
+        "id": "45700",
+        "name": "Devil May Cry 4",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 13:08:56"
+    },
+    {
+        "id": "65233",
+        "name": "Train Simulator: Horseshoe Curve Route Add-On",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:08:58"
+    },
+    {
+        "id": "65242",
+        "name": "Train Simulator: PRR GG1 Loco Add-On",
+        "price": 8.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:08:59"
+    },
+    {
+        "id": "65255",
+        "name": "Train Simulator: Settle to Carlisle Route Add-on",
+        "price": 12.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:01"
+    },
+    {
+        "id": "222554",
+        "name": "Train Simulator: Western Lines of Scotland Route Add-On",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:02"
+    },
+    {
+        "id": "222582",
+        "name": "Train Simulator: Canadian Mountain Passes: Revelstoke-Lake Louise",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:03"
+    },
+    {
+        "id": "222615",
+        "name": "Train Simulator: West Somerset Railway Route Add-On",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:05"
+    },
+    {
+        "id": "222616",
+        "name": "Train Simulator: WSR Diesels Loco Add-On",
+        "price": 13.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:06"
+    },
+    {
+        "id": "229790",
+        "name": "Might & Magic: Heroes VI - Shades of Darkness",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 13:09:07"
+    },
+    {
+        "id": "236930",
+        "name": "Blackwell Epiphany",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:08"
+    },
+    {
+        "id": "240970",
+        "name": "Half Minute Hero: The Second Coming",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:10"
+    },
+    {
+        "id": "251270",
+        "name": "Corpse Party",
+        "price": 4.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:11"
+    },
+    {
+        "id": "251590",
+        "name": "Soul Saga",
+        "price": 12.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:13"
+    },
+    {
+        "id": "253150",
+        "name": "Halfway",
+        "price": 12.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:15"
+    },
+    {
+        "id": "254370",
+        "name": "Aquanox Deep Descent",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:16"
+    },
+    {
+        "id": "256030",
+        "name": "Shadows: Heretic Kingdoms",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:17"
+    },
+    {
+        "id": "258642",
+        "name": "Train Simulator: New Haven FL9 Loco Add-On",
+        "price": 13.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:19"
+    },
+    {
+        "id": "260130",
+        "name": "Agarest: Generations of War Zero",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:20"
+    },
+    {
+        "id": "261550",
+        "name": "Mount & Blade II: Bannerlord",
+        "price": 49.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:21"
+    },
+    {
+        "id": "274480",
+        "name": "Drox Operative",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:23"
+    },
+    {
+        "id": "277761",
+        "name": "Train Simulator: West Highland Line (South) Route Add-On",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:24"
+    },
+    {
+        "id": "278550",
+        "name": "A-Train 9 V4.0 : Japan Rail Simulator",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 13:09:26"
+    },
+    {
+        "id": "279070",
+        "name": "9th Dawn II",
+        "price": 4.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:27"
+    },
+    {
+        "id": "280600",
+        "name": "BloodLust Shadowhunter",
+        "price": 8.19,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:28"
+    },
+    {
+        "id": "280720",
+        "name": "Imagine Earth",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:29"
+    },
+    {
+        "id": "283160",
+        "name": "House of the Dying Sun",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:31"
+    },
+    {
+        "id": "283740",
+        "name": "Kerbal Space Program: Making History Expansion",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:32"
+    },
+    {
+        "id": "285920",
+        "name": "TerraTech",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:34"
+    },
+    {
+        "id": "288370",
+        "name": "Strike Suit Zero: Director's Cut",
+        "price": 17.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:09:35"
+    },
+    {
+        "id": "290970",
+        "name": "1849",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:02"
+    },
+    {
+        "id": "293160",
+        "name": "AntharioN",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:04"
+    },
+    {
+        "id": "294100",
+        "name": "RimWorld",
+        "price": 31.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:05"
+    },
+    {
+        "id": "299230",
+        "name": "Age of Wonders III - Golden Realms Expansion",
+        "price": 11.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:06"
+    },
+    {
+        "id": "305940",
+        "name": "Project AURA",
+        "price": 12.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:07"
+    },
+    {
+        "id": "306460",
+        "name": "Unturned - Permanent Gold Upgrade",
+        "price": 4.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:09"
+    },
+    {
+        "id": "308080",
+        "name": "Wing Breakers",
+        "price": 22.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:11"
+    },
+    {
+        "id": "308270",
+        "name": "Buzz Aldrin's Space Program Manager",
+        "price": 28.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:12"
+    },
+    {
+        "id": "311260",
+        "name": "The Guild 3",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:14"
+    },
+    {
+        "id": "312560",
+        "name": "Xanadu Next",
+        "price": 4.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:15"
+    },
+    {
+        "id": "312790",
+        "name": "Agarest: Generations of War 2",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:16"
+    },
+    {
+        "id": "319910",
+        "name": "Trine 3: The Artifacts of Power",
+        "price": 21.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:18"
+    },
+    {
+        "id": "320240",
+        "name": "We Happy Few",
+        "price": 59.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:19"
+    },
+    {
+        "id": "321180",
+        "name": "RPG Maker VX Ace - Sci Fi Battlebacks",
+        "price": 9.75,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:20"
+    },
+    {
+        "id": "323850",
+        "name": "Move or Die",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:22"
+    },
+    {
+        "id": "325610",
+        "name": "Total War: ATTILA",
+        "price": 44.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:23"
+    },
+    {
+        "id": "325976",
+        "name": "Train Simulator: Clear Creek Narrow Gauge Route Add-On",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:24"
+    },
+    {
+        "id": "325989",
+        "name": "Train Simulator: LMS Coronation Class \"Duchess of Hamilton\" Loco Add-On",
+        "price": 13.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:26"
+    },
+    {
+        "id": "328000",
+        "name": "Dragon Fantasy: The Black Tome of Ice",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:27"
+    },
+    {
+        "id": "328070",
+        "name": "Reflex Arena",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:28"
+    },
+    {
+        "id": "329530",
+        "name": "Age of Wonders III - Eternal Lords Expansion",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:30"
+    },
+    {
+        "id": "329970",
+        "name": "KeeperRL",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:31"
+    },
+    {
+        "id": "330100",
+        "name": "BossConstructor",
+        "price": 7.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:32"
+    },
+    {
+        "id": "332290",
+        "name": "RPG Maker VX Ace - Sci-Fi Music Pack",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:33"
+    },
+    {
+        "id": "332291",
+        "name": "RPG Maker VX Ace - Sci-Fi Sound Effects",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:35"
+    },
+    {
+        "id": "332292",
+        "name": "RPG Maker VX Ace - Sci-Fi Tiles",
+        "price": 9.75,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:36"
+    },
+    {
+        "id": "335620",
+        "name": "Star Traders: Frontiers",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:37"
+    },
+    {
+        "id": "335830",
+        "name": "Distant Star: Revenant Fleet",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:39"
+    },
+    {
+        "id": "337680",
+        "name": "Star Hammer: The Vanguard Prophecy",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:40"
+    },
+    {
+        "id": "337902",
+        "name": "RPG Maker VX Ace - DS+ Expansion - Retro SciFi",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:41"
+    },
+    {
+        "id": "337970",
+        "name": "Wildlife Park - Wild Creatures",
+        "price": 5.89,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:43"
+    },
+    {
+        "id": "340210",
+        "name": "Predestination",
+        "price": 27.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:44"
+    },
+    {
+        "id": "342560",
+        "name": "Airships: Conquer the Skies",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:45"
+    },
+    {
+        "id": "342640",
+        "name": "Pixel Privateers",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 13:10:47"
+    },
+    {
+        "id": "344240",
+        "name": "Man O' War: Corsair - Warhammer Naval Battles",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:01:10"
+    },
+    {
+        "id": "345390",
+        "name": "King's Quest",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:01:11"
+    },
+    {
+        "id": "346930",
+        "name": "Deadhold",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:01:12"
+    },
+    {
+        "id": "347600",
+        "name": "Total Miner",
+        "price": 2.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:14"
+    },
+    {
+        "id": "350050",
+        "name": "EITR",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:01:15"
+    },
+    {
+        "id": "350460",
+        "name": "Hand of Fate : Wildcards",
+        "price": 4.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:16"
+    },
+    {
+        "id": "351300",
+        "name": "Ceres",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:17"
+    },
+    {
+        "id": "351700",
+        "name": "UnReal World",
+        "price": 10.15,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:19"
+    },
+    {
+        "id": "355170",
+        "name": "Sam & Max Hit the Road",
+        "price": 5.89,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:20"
+    },
+    {
+        "id": "355420",
+        "name": "FLAMBERGE",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:21"
+    },
+    {
+        "id": "358090",
+        "name": "D4: Dark Dreams Don’t Die -Season One-",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:22"
+    },
+    {
+        "id": "358460",
+        "name": "Talisman: The Horus Heresy",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:01:24"
+    },
+    {
+        "id": "359440",
+        "name": "Artifact Adventure",
+        "price": 6.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:25"
+    },
+    {
+        "id": "360510",
+        "name": "Into the Stars",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:26"
+    },
+    {
+        "id": "361130",
+        "name": "Card Dungeon",
+        "price": 5.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:28"
+    },
+    {
+        "id": "361420",
+        "name": "ASTRONEER",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:29"
+    },
+    {
+        "id": "361800",
+        "name": "Tree of Life",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:01:30"
+    },
+    {
+        "id": "362490",
+        "name": "Exanima",
+        "price": 13.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:32"
+    },
+    {
+        "id": "362620",
+        "name": "Software Inc.",
+        "price": 22.54,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:33"
+    },
+    {
+        "id": "363360",
+        "name": "Interstellar Rift",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:34"
+    },
+    {
+        "id": "364510",
+        "name": "Transcendence",
+        "price": 12.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:36"
+    },
+    {
+        "id": "364640",
+        "name": "FreeCell Quest",
+        "price": 9.75,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:37"
+    },
+    {
+        "id": "364840",
+        "name": "N2O: Nitrous Oxide",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:01:38"
+    },
+    {
+        "id": "365360",
+        "name": "Battle Brothers",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:40"
+    },
+    {
+        "id": "366000",
+        "name": "Rogue System",
+        "price": 12.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:41"
+    },
+    {
+        "id": "366090",
+        "name": "Colony Survival",
+        "price": 24.95,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:42"
+    },
+    {
+        "id": "367020",
+        "name": "No One But You",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:01:44"
+    },
+    {
+        "id": "372360",
+        "name": "Tales of Symphonia",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:45"
+    },
+    {
+        "id": "374150",
+        "name": "Concealed Intent",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:46"
+    },
+    {
+        "id": "375480",
+        "name": "Chronicon",
+        "price": 13.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:48"
+    },
+    {
+        "id": "376933",
+        "name": "Train Simulator: Shanghai Maglev Route Add-On",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:49"
+    },
+    {
+        "id": "376935",
+        "name": "Train Simulator: Outeniqua Choo Tjoe Route Add-On",
+        "price": 22.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:50"
+    },
+    {
+        "id": "376951",
+        "name": "Train Simulator: ÖBB 4023 ‘Talent' EMU Add-On",
+        "price": 21.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:52"
+    },
+    {
+        "id": "376952",
+        "name": "Train Simulator: GWR Star Loco Add-On",
+        "price": 13.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:53"
+    },
+    {
+        "id": "376955",
+        "name": "Train Simulator: CRH 380A High Speed Train Add-On",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:55"
+    },
+    {
+        "id": "376961",
+        "name": "Train Simulator: Wakayama & Sakurai Lines Route Add-On",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:56"
+    },
+    {
+        "id": "376966",
+        "name": "Train Simulator: Albula Line: St Moritz - Thusis Route Add-On",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:57"
+    },
+    {
+        "id": "377840",
+        "name": "FINAL FANTASY IX",
+        "price": 8.39,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:01:58"
+    },
+    {
+        "id": "378030",
+        "name": "Cardinal Quest 2",
+        "price": 3.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:00"
+    },
+    {
+        "id": "379210",
+        "name": "Wayward",
+        "price": 7.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:01"
+    },
+    {
+        "id": "382890",
+        "name": "FINAL FANTASY V (Old ver.)",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:02:02"
+    },
+    {
+        "id": "385060",
+        "name": "The Last Warlock",
+        "price": 4.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:04"
+    },
+    {
+        "id": "385380",
+        "name": "Planet Centauri",
+        "price": 6.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:06"
+    },
+    {
+        "id": "386080",
+        "name": "Pharaonic",
+        "price": 3.74,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:08"
+    },
+    {
+        "id": "386770",
+        "name": "Caladrius Blaze",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:11"
+    },
+    {
+        "id": "387990",
+        "name": "Scrap Mechanic",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:12"
+    },
+    {
+        "id": "388080",
+        "name": "Borderless Gaming",
+        "price": 6.89,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:14"
+    },
+    {
+        "id": "390610",
+        "name": "Circa Infinity",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:15"
+    },
+    {
+        "id": "391280",
+        "name": "Epic Manager - Create Your Own Adventuring Agency!",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:16"
+    },
+    {
+        "id": "391860",
+        "name": "Holy Potatoes! A Weapon Shop?! - Spud Tales: Journey to Olympus",
+        "price": 2.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:18"
+    },
+    {
+        "id": "392160",
+        "name": "X4: Foundations",
+        "price": 49.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:19"
+    },
+    {
+        "id": "393920",
+        "name": "Auto Dealership Tycoon",
+        "price": 5.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:22"
+    },
+    {
+        "id": "397160",
+        "name": "Aurora Dusk: Steam Age",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:23"
+    },
+    {
+        "id": "403640",
+        "name": "Dishonored 2",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:24"
+    },
+    {
+        "id": "404200",
+        "name": "WARTILE",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:26"
+    },
+    {
+        "id": "404250",
+        "name": "Tales of Maj'Eyal - Embers of Rage",
+        "price": 6.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:27"
+    },
+    {
+        "id": "405900",
+        "name": "Disgaea PC",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:28"
+    },
+    {
+        "id": "408960",
+        "name": "Zombasite",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:30"
+    },
+    {
+        "id": "409890",
+        "name": "Stranger of Sword City",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:31"
+    },
+    {
+        "id": "409910",
+        "name": "The Storm Guard: Darkness is Coming",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:33"
+    },
+    {
+        "id": "410840",
+        "name": "Rock God Tycoon",
+        "price": 10.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:34"
+    },
+    {
+        "id": "411830",
+        "name": "SENRAN KAGURA SHINOVI VERSUS",
+        "price": 7.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:36"
+    },
+    {
+        "id": "414260",
+        "name": "Ironclads 2: American Civil War",
+        "price": 9.75,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:37"
+    },
+    {
+        "id": "414510",
+        "name": "5089: The Action RPG",
+        "price": 7.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:38"
+    },
+    {
+        "id": "416210",
+        "name": "Block'hood",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:40"
+    },
+    {
+        "id": "417290",
+        "name": "Ghost of a Tale",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:41"
+    },
+    {
+        "id": "420950",
+        "name": "Time Tenshi (2015)",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:42"
+    },
+    {
+        "id": "421900",
+        "name": "Shadowrun Chronicles: INFECTED Director's Cut",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:02:44"
+    },
+    {
+        "id": "422900",
+        "name": "Particle Fleet: Emergence",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:45"
+    },
+    {
+        "id": "425840",
+        "name": "Goat Simulator: PAYDAY",
+        "price": 4.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:46"
+    },
+    {
+        "id": "426590",
+        "name": "Blood of Magic",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:48"
+    },
+    {
+        "id": "427470",
+        "name": "Democracy 3 Africa",
+        "price": 16.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:49"
+    },
+    {
+        "id": "427520",
+        "name": "Factorio",
+        "price": 32,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:50"
+    },
+    {
+        "id": "427570",
+        "name": "Dawn of Andromeda",
+        "price": 28.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:52"
+    },
+    {
+        "id": "427910",
+        "name": "Zavix Tower",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:53"
+    },
+    {
+        "id": "428860",
+        "name": "Red Haze",
+        "price": 3.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:54"
+    },
+    {
+        "id": "428880",
+        "name": "The Quest",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:55"
+    },
+    {
+        "id": "429530",
+        "name": "Falcon 4.0",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:57"
+    },
+    {
+        "id": "431960",
+        "name": "Wallpaper Engine",
+        "price": 4.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:02:58"
+    },
+    {
+        "id": "432350",
+        "name": "Epic Battle Fantasy 5",
+        "price": 21.39,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:00"
+    },
+    {
+        "id": "433270",
+        "name": "JourneyQuest Season One",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:03:01"
+    },
+    {
+        "id": "434880",
+        "name": "Hieroglyphika",
+        "price": 2.43,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:02"
+    },
+    {
+        "id": "435150",
+        "name": "Divinity: Original Sin 2 - Definitive Edition",
+        "price": 44.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:03"
+    },
+    {
+        "id": "436070",
+        "name": "Nadia Was Here",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:03:05"
+    },
+    {
+        "id": "436670",
+        "name": "The Legend of Heroes: Trails in the Sky the 3rd",
+        "price": 22.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:06"
+    },
+    {
+        "id": "437250",
+        "name": "A House of Many Doors",
+        "price": 10.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:07"
+    },
+    {
+        "id": "438640",
+        "name": "LEGO® STAR WARS™: The Force Awakens",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:09"
+    },
+    {
+        "id": "445220",
+        "name": "Avorion",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:10"
+    },
+    {
+        "id": "445420",
+        "name": "Aselia the Eternal -The Spirit of Eternity Sword-",
+        "price": 12.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:11"
+    },
+    {
+        "id": "446000",
+        "name": "Stellar Monarch",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:13"
+    },
+    {
+        "id": "446800",
+        "name": "Transport Fever",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:14"
+    },
+    {
+        "id": "447530",
+        "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:15"
+    },
+    {
+        "id": "448191",
+        "name": "Train Simulator: Southern Railway S15 Class Steam Loco Add-On",
+        "price": 13.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:16"
+    },
+    {
+        "id": "448195",
+        "name": "Train Simulator: Clear Creek Old Timer Rolling Stock Pack Add-On",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:18"
+    },
+    {
+        "id": "450700",
+        "name": "The Spatials: Galactology",
+        "price": 12.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:19"
+    },
+    {
+        "id": "453030",
+        "name": "The Fifth Expedition",
+        "price": 9,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:20"
+    },
+    {
+        "id": "453300",
+        "name": "A Healer Only Lives Twice",
+        "price": 4.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:22"
+    },
+    {
+        "id": "453690",
+        "name": "Dark Quest 2",
+        "price": 8.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:23"
+    },
+    {
+        "id": "455980",
+        "name": "Judgment: Apocalypse Survival Simulation",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:24"
+    },
+    {
+        "id": "457140",
+        "name": "Oxygen Not Included",
+        "price": 22.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:26"
+    },
+    {
+        "id": "458640",
+        "name": "Big Pharma: Marketing and Malpractice",
+        "price": 5.89,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:27"
+    },
+    {
+        "id": "459120",
+        "name": "Train Valley - Germany",
+        "price": 0.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:28"
+    },
+    {
+        "id": "460390",
+        "name": "Renowned Explorers: More To Explore",
+        "price": 7.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:29"
+    },
+    {
+        "id": "460780",
+        "name": "Avadon 3: The Warborn",
+        "price": 5.85,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:31"
+    },
+    {
+        "id": "460790",
+        "name": "Bayonetta",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:32"
+    },
+    {
+        "id": "461244",
+        "name": "Euro Truck Simulator 2 - Mighty Griffin Tuning Pack",
+        "price": 3.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:33"
+    },
+    {
+        "id": "461248",
+        "name": "Euro Truck Simulator 2 - Pirate Paint Jobs Pack",
+        "price": 1.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:34"
+    },
+    {
+        "id": "463530",
+        "name": "Empires of the Undergrowth",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:36"
+    },
+    {
+        "id": "463720",
+        "name": "Goat Simulator: Waste of Space",
+        "price": 4.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:37"
+    },
+    {
+        "id": "464150",
+        "name": "Regalia: Of Men and Monarchs",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:38"
+    },
+    {
+        "id": "464350",
+        "name": "Screeps: World",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:40"
+    },
+    {
+        "id": "464880",
+        "name": "Stars in Shadow",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:41"
+    },
+    {
+        "id": "465490",
+        "name": "Stellar Tactics",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:42"
+    },
+    {
+        "id": "465510",
+        "name": "Sinful Eden",
+        "price": 6.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:44"
+    },
+    {
+        "id": "466920",
+        "name": "Mugen Souls Z",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:03:45"
+    },
+    {
+        "id": "473770",
+        "name": "BallisticNG",
+        "price": 12.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:26:35"
+    },
+    {
+        "id": "474890",
+        "name": "Uncrewed",
+        "price": 4.19,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:26:36"
+    },
+    {
+        "id": "476530",
+        "name": "Children of a Dead Earth",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:26:37"
+    },
+    {
+        "id": "483840",
+        "name": "Grim Dawn - Crucible Mode DLC",
+        "price": 7.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:26:39"
+    },
+    {
+        "id": "485360",
+        "name": "Disgraced",
+        "price": 9.75,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:26:40"
+    },
+    {
+        "id": "485460",
+        "name": "The Banner Saga 3",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:26:41"
+    },
+    {
+        "id": "485900",
+        "name": "Hardware Engineers",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:26:43"
+    },
+    {
+        "id": "486720",
+        "name": "Bastard Bonds",
+        "price": 8.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:26:44"
+    },
+    {
+        "id": "487000",
+        "name": "Quest Hunter",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:26:45"
+    },
+    {
+        "id": "487280",
+        "name": "Sins of a Solar Empire: Rebellion® - Outlaw Sectors™ DLC",
+        "price": 4.59,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:26:46"
+    },
+    {
+        "id": "491470",
+        "name": "PRINCIPIA: Master of Science",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:26:48"
+    },
+    {
+        "id": "493080",
+        "name": "Card Quest",
+        "price": 8.19,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:26:49"
+    },
+    {
+        "id": "494670",
+        "name": "TransRoad: USA",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:26:50"
+    },
+    {
+        "id": "497850",
+        "name": "8-Bit Hordes",
+        "price": 7.39,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:26:52"
+    },
+    {
+        "id": "498500",
+        "name": "I Am The Hero",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:26:53"
+    },
+    {
+        "id": "502740",
+        "name": "50 years",
+        "price": 4.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:26:55"
+    },
+    {
+        "id": "503450",
+        "name": "Space Rangers: Quest",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:26:56"
+    },
+    {
+        "id": "504050",
+        "name": "Planet Nomads",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:26:57"
+    },
+    {
+        "id": "505060",
+        "name": "Warcube",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:26:59"
+    },
+    {
+        "id": "506971",
+        "name": "DARK SOULS™ III - The Ringed City™",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:00"
+    },
+    {
+        "id": "508190",
+        "name": "Dragon Knight",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:27:01"
+    },
+    {
+        "id": "510500",
+        "name": "Executive Assault 2",
+        "price": 20.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:02"
+    },
+    {
+        "id": "511740",
+        "name": "Gal*Gun: Double Peace",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:04"
+    },
+    {
+        "id": "515180",
+        "name": "Bus Simulator 18",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:05"
+    },
+    {
+        "id": "516750",
+        "name": "My Summer Car",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:06"
+    },
+    {
+        "id": "517720",
+        "name": "Epic Tavern",
+        "price": 22.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:08"
+    },
+    {
+        "id": "521150",
+        "name": "Another Brick in The Mall",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:09"
+    },
+    {
+        "id": "522030",
+        "name": "Eclipse: New Dawn for the Galaxy",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:27:10"
+    },
+    {
+        "id": "527270",
+        "name": "Atelier Sophie: The Alchemist of the Mysterious Book",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:27:24"
+    },
+    {
+        "id": "535490",
+        "name": "Porno Studio Tycoon",
+        "price": 19.69,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:26"
+    },
+    {
+        "id": "538680",
+        "name": "The Legend of Heroes: Trails of Cold Steel",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:27"
+    },
+    {
+        "id": "548650",
+        "name": "Lightspeed Frontier",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:28"
+    },
+    {
+        "id": "551770",
+        "name": "ECHO",
+        "price": 22.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:29"
+    },
+    {
+        "id": "551860",
+        "name": "Abandon Ship",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:31"
+    },
+    {
+        "id": "552100",
+        "name": "Brick Rigs",
+        "price": 18.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:32"
+    },
+    {
+        "id": "552700",
+        "name": "WORLD OF FINAL FANTASY®",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:33"
+    },
+    {
+        "id": "552920",
+        "name": "Sailaway - The Sailing Simulator",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:27:35"
+    },
+    {
+        "id": "554620",
+        "name": "Life is Strange: Before the Storm",
+        "price": 16.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:36"
+    },
+    {
+        "id": "559070",
+        "name": "Zak McKracken and the Alien Mindbenders",
+        "price": 5.89,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:37"
+    },
+    {
+        "id": "561740",
+        "name": "MidBoss",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:38"
+    },
+    {
+        "id": "562373",
+        "name": "Train Simulator: Gatwick Express BR Class 460 'Juniper' EMU Add-On",
+        "price": 13.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:40"
+    },
+    {
+        "id": "562379",
+        "name": "Train Simulator: CPRR 4-4-0 No. 60 ‘Jupiter’ Steam Loco Add-On",
+        "price": 21.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:41"
+    },
+    {
+        "id": "562380",
+        "name": "Train Simulator: Corris Railway Expansion Pack Loco Add-On",
+        "price": 10.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:42"
+    },
+    {
+        "id": "563390",
+        "name": "Children of the Galaxy",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:44"
+    },
+    {
+        "id": "566090",
+        "name": "The Bard's Tale IV: Barrows Deep",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:27:45"
+    },
+    {
+        "id": "567080",
+        "name": "Wizards and Warlords",
+        "price": 9.75,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:46"
+    },
+    {
+        "id": "569480",
+        "name": "Kingdoms and Castles",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:48"
+    },
+    {
+        "id": "573490",
+        "name": "Interstellar Transport Company",
+        "price": 21.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:49"
+    },
+    {
+        "id": "574050",
+        "name": "DRAGON QUEST HEROES™ II",
+        "price": 59.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:50"
+    },
+    {
+        "id": "578850",
+        "name": "64.0",
+        "price": 2.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:52"
+    },
+    {
+        "id": "579180",
+        "name": "Ys VIII: Lacrimosa of DANA",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:53"
+    },
+    {
+        "id": "582540",
+        "name": "Project Highrise: Las Vegas",
+        "price": 3.44,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:54"
+    },
+    {
+        "id": "583950",
+        "name": "Artifact",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:27:55"
+    },
+    {
+        "id": "585900",
+        "name": "Harvest Moon: Light of Hope Special Edition",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:57"
+    },
+    {
+        "id": "587100",
+        "name": "Ys SEVEN",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:58"
+    },
+    {
+        "id": "587110",
+        "name": "Ys: Memories of Celceta",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:27:59"
+    },
+    {
+        "id": "588950",
+        "name": "Kingsway",
+        "price": 4.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:28:01"
+    },
+    {
+        "id": "589360",
+        "name": "Ni no Kuni™ II: Revenant Kingdom",
+        "price": 59.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:28:02"
+    },
+    {
+        "id": "590380",
+        "name": "Into the Breach",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:28:03"
+    },
+    {
+        "id": "591370",
+        "name": "Production Line : Car factory simulation",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:28:05"
+    },
+    {
+        "id": "591460",
+        "name": "Parkasaurus",
+        "price": 20.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:08"
+    },
+    {
+        "id": "593490",
+        "name": "Empire Architect",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:09"
+    },
+    {
+        "id": "594630",
+        "name": "War for the Overworld - The Under Games Expansion",
+        "price": 9.75,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:11"
+    },
+    {
+        "id": "595520",
+        "name": "FINAL FANTASY XII THE ZODIAC AGE",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:12"
+    },
+    {
+        "id": "595930",
+        "name": "Steam: Rails to Riches",
+        "price": 9.75,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:13"
+    },
+    {
+        "id": "597150",
+        "name": "Hyper Knights",
+        "price": 1.24,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:14"
+    },
+    {
+        "id": "598960",
+        "name": "Mashinky",
+        "price": 22.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:16"
+    },
+    {
+        "id": "599460",
+        "name": "Weapon Shop Fantasy",
+        "price": 8.19,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:17"
+    },
+    {
+        "id": "606230",
+        "name": "Thea 2: The Shattering",
+        "price": 21.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:18"
+    },
+    {
+        "id": "606800",
+        "name": "Startup Company",
+        "price": 6.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:20"
+    },
+    {
+        "id": "607880",
+        "name": "Accel World VS. Sword Art Online Deluxe Edition",
+        "price": 49.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:21"
+    },
+    {
+        "id": "609150",
+        "name": "STAR OCEAN™ - THE LAST HOPE -™ 4K & Full HD Remaster",
+        "price": 6.29,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:22"
+    },
+    {
+        "id": "610960",
+        "name": "红石遗迹 - Red Obsidian Remnant",
+        "price": 8.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:23"
+    },
+    {
+        "id": "612470",
+        "name": "Bio Inc. Redemption",
+        "price": 12.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:25"
+    },
+    {
+        "id": "612720",
+        "name": "SAELIG",
+        "price": 12.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:26"
+    },
+    {
+        "id": "613880",
+        "name": "Zoo Tycoon: Ultimate Animal Collection",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:27"
+    },
+    {
+        "id": "614570",
+        "name": "Dishonored®: Death of the Outsider™",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:29"
+    },
+    {
+        "id": "617030",
+        "name": "Landless",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:30"
+    },
+    {
+        "id": "618050",
+        "name": "To The Light",
+        "price": 6.15,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:31"
+    },
+    {
+        "id": "621070",
+        "name": "Legends of Ellaria",
+        "price": 9.75,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:32"
+    },
+    {
+        "id": "621870",
+        "name": "Train Simulator: Arosa Line Route Add-On",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:34"
+    },
+    {
+        "id": "621925",
+        "name": "Train Simulator: Hidaka Main Line: Tomakomai - Hidaka-Mombetsu Route Add-On",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:35"
+    },
+    {
+        "id": "621926",
+        "name": "Train Simulator: Canadian National Peace River Route Add-On",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:36"
+    },
+    {
+        "id": "621930",
+        "name": "Attack of the Earthlings",
+        "price": 12.59,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:38"
+    },
+    {
+        "id": "626250",
+        "name": "Consortium: THE TOWER",
+        "price": 22.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:39"
+    },
+    {
+        "id": "636570",
+        "name": "Nights of Azure 2: Bride of the New Moon",
+        "price": 59.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:40"
+    },
+    {
+        "id": "637670",
+        "name": "Secret of Mana",
+        "price": 15.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:31:42"
+    },
+    {
+        "id": "639780",
+        "name": "Deep Space Waifu: FLAT JUSTICE",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:31:43"
+    },
+    {
+        "id": "639790",
+        "name": "DEEP SPACE WAIFU",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:31:44"
+    },
+    {
+        "id": "642280",
+        "name": "Grim Dawn - Ashes of Malmouth Expansion",
+        "price": 17.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:23"
+    },
+    {
+        "id": "648301",
+        "name": "Project CARS 2 Season Pass",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:40:24"
+    },
+    {
+        "id": "649950",
+        "name": "Ashen",
+        "price": 36.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:25"
+    },
+    {
+        "id": "657690",
+        "name": "The Caribbean Sail",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:28"
+    },
+    {
+        "id": "663300",
+        "name": "Enlightenment",
+        "price": 11.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:29"
+    },
+    {
+        "id": "671260",
+        "name": "GOKEN",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:30"
+    },
+    {
+        "id": "672590",
+        "name": "Azure Saga: Pathfinder",
+        "price": 12.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:31"
+    },
+    {
+        "id": "672630",
+        "name": "Academia : School Simulator",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:33"
+    },
+    {
+        "id": "673210",
+        "name": "Frontier Pilot Simulator",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:34"
+    },
+    {
+        "id": "673950",
+        "name": "Farm Together",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:35"
+    },
+    {
+        "id": "678003",
+        "name": "Train Simulator: Köln Airport Link Route Extension Add-On",
+        "price": 15.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:37"
+    },
+    {
+        "id": "678190",
+        "name": "King of Bali",
+        "price": 3.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:38"
+    },
+    {
+        "id": "686680",
+        "name": "Computer Tycoon",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:39"
+    },
+    {
+        "id": "686740",
+        "name": "Haunted Dungeons: Hyakki Castle",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:40:40"
+    },
+    {
+        "id": "690830",
+        "name": "Foundation",
+        "price": 33.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:41"
+    },
+    {
+        "id": "691690",
+        "name": "Ash of Gods: Redemption",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:43"
+    },
+    {
+        "id": "691770",
+        "name": "Eiyu*Senki – The World Conquest",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:44"
+    },
+    {
+        "id": "693750",
+        "name": "Galactic Crew",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:40:45"
+    },
+    {
+        "id": "696170",
+        "name": "SENRAN KAGURA Peach Beach Splash",
+        "price": 8.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:46"
+    },
+    {
+        "id": "705280",
+        "name": "Hakoniwa Explorer Plus",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:48"
+    },
+    {
+        "id": "710030",
+        "name": "Cinderella Escape 2 Revenge",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:49"
+    },
+    {
+        "id": "712100",
+        "name": "A Total War Saga: THRONES OF BRITANNIA",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:50"
+    },
+    {
+        "id": "722730",
+        "name": "Cogmind",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:52"
+    },
+    {
+        "id": "723090",
+        "name": "Meltys Quest",
+        "price": 16.3,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:53"
+    },
+    {
+        "id": "730410",
+        "name": "Music Band Manager",
+        "price": 7.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:54"
+    },
+    {
+        "id": "735280",
+        "name": "EMERGENCY 20",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:55"
+    },
+    {
+        "id": "738610",
+        "name": "Train Station Simulator",
+        "price": 15.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:57"
+    },
+    {
+        "id": "742120",
+        "name": "DRAGON QUEST® XI: Echoes of an Elusive Age™ - Digital Edition of Light",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:40:58"
+    },
+    {
+        "id": "748490",
+        "name": "The Legend of Heroes: Trails of Cold Steel II",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:40:59"
+    },
+    {
+        "id": "750170",
+        "name": "Diesel Railcar Simulator",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:43:44"
+    },
+    {
+        "id": "756590",
+        "name": "Atelier Lydie & Suelle ~The Alchemists and the Mysterious Paintings~",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:43:46"
+    },
+    {
+        "id": "758190",
+        "name": "Dragon Cliff",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:43:47"
+    },
+    {
+        "id": "758870",
+        "name": "Kynseed",
+        "price": 12.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:43:48"
+    },
+    {
+        "id": "760860",
+        "name": "TRANSCEND",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:43:49"
+    },
+    {
+        "id": "779340",
+        "name": "Total War: THREE KINGDOMS",
+        "price": 59.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:43:51"
+    },
+    {
+        "id": "784150",
+        "name": "Workers & Resources: Soviet Republic",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:43:52"
+    },
+    {
+        "id": "788270",
+        "name": "Exiled Kingdoms",
+        "price": 7.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:43:53"
+    },
+    {
+        "id": "791330",
+        "name": "Fallen ~Makina and the City of Ruins~",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:43:55"
+    },
+    {
+        "id": "802890",
+        "name": "Muv-Luv Alternative",
+        "price": 37.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:43:56"
+    },
+    {
+        "id": "804760",
+        "name": "Turmoil - The Heat Is On",
+        "price": 6.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:43:58"
+    },
+    {
+        "id": "804850",
+        "name": "Pax Nova",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:43:59"
+    },
+    {
+        "id": "808800",
+        "name": "Star Singularity",
+        "price": 12.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:44:00"
+    },
+    {
+        "id": "808910",
+        "name": "STAR WARS™ Episode I Racer",
+        "price": 9.75,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:44:01"
+    },
+    {
+        "id": "809720",
+        "name": "Rescue HQ - The Tycoon",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:44:03"
+    },
+    {
+        "id": "825630",
+        "name": "STEINS;GATE 0",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:44:04"
+    },
+    {
+        "id": "833360",
+        "name": "Star Valor",
+        "price": 23.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:44:06"
+    },
+    {
+        "id": "834340",
+        "name": "The Hardest Dungeon",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:44:07"
+    },
+    {
+        "id": "835430",
+        "name": "La-Mulana 2",
+        "price": 20.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:44:08"
+    },
+    {
+        "id": "859680",
+        "name": "Deep Space Waifu: FANTASY",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:44:10"
+    },
+    {
+        "id": "863590",
+        "name": "Starcom: Nexus",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:44:11"
+    },
+    {
+        "id": "872130",
+        "name": "DEEP SPACE WAIFU: WORLD",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:44:13"
+    },
+    {
+        "id": "880130",
+        "name": "Lawless Lands",
+        "price": 11.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:44:14"
+    },
+    {
+        "id": "888130",
+        "name": "Starport Delta",
+        "price": 20.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:44:15"
+    },
+    {
+        "id": "893010",
+        "name": "Slave's Sword",
+        "price": 12.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:44:16"
+    },
+    {
+        "id": "896160",
+        "name": "Evil Bank Manager",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:44:18"
+    },
+    {
+        "id": "899970",
+        "name": "NEKOPARA Extra",
+        "price": 4.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:44:19"
+    },
+    {
+        "id": "910880",
+        "name": "Mad Tower Tycoon",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:09"
+    },
+    {
+        "id": "911550",
+        "name": "Din's Legacy",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:10"
+    },
+    {
+        "id": "921570",
+        "name": "OCTOPATH TRAVELER™",
+        "price": 23.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:12"
+    },
+    {
+        "id": "922920",
+        "name": "Knights of Tartarus",
+        "price": 8.19,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:13"
+    },
+    {
+        "id": "931500",
+        "name": "Touhou Genso Wanderer -Reloaded-",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:14"
+    },
+    {
+        "id": "937450",
+        "name": "Metropolisim",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:46:16"
+    },
+    {
+        "id": "955560",
+        "name": "Evenicle",
+        "price": 37.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:17"
+    },
+    {
+        "id": "958480",
+        "name": "Seed of the Dead",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:18"
+    },
+    {
+        "id": "971720",
+        "name": "Total War: THRONES OF BRITANNIA - Rise and Fall of the Anglo-Saxons",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:46:20"
+    },
+    {
+        "id": "975020",
+        "name": "The Spirit Master of Retarnia -Conqueror of the Labyrinth-",
+        "price": 12.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:21"
+    },
+    {
+        "id": "977720",
+        "name": "Starpoint Gemini 3",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:22"
+    },
+    {
+        "id": "985950",
+        "name": "Operencia: The Stolen Sun",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:24"
+    },
+    {
+        "id": "394970",
+        "name": "DEADBOLT",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:25"
+    },
+    {
+        "id": "17480",
+        "name": "Command & Conquer™ Red Alert™ 3",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:46:27"
+    },
+    {
+        "id": "32710",
+        "name": "Armored Fist 3",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:28"
+    },
+    {
+        "id": "32730",
+        "name": "F-22 Lightning 3",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:30"
+    },
+    {
+        "id": "32740",
+        "name": "MiG-29 Fulcrum",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:31"
+    },
+    {
+        "id": "32750",
+        "name": "Comanche 4",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:32"
+    },
+    {
+        "id": "208480",
+        "name": "Assassin’s Creed® III",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:46:34"
+    },
+    {
+        "id": "224740",
+        "name": "Clockwork Empires",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:46:35"
+    },
+    {
+        "id": "233860",
+        "name": "Kenshi",
+        "price": 26.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:36"
+    },
+    {
+        "id": "239030",
+        "name": "Papers, Please",
+        "price": 9.75,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:38"
+    },
+    {
+        "id": "245050",
+        "name": "SpellForce 2 - Demons of the Past",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:39"
+    },
+    {
+        "id": "245570",
+        "name": "DCS: A-10A Flaming Cliffs",
+        "price": 6.92,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:40"
+    },
+    {
+        "id": "249320",
+        "name": "DCS: Flaming Cliffs 3",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:46:42"
+    },
+    {
+        "id": "255910",
+        "name": "Sins of a Solar Empire: Rebellion - Stellar Phenomena®",
+        "price": 4.59,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:43"
+    },
+    {
+        "id": "284160",
+        "name": "BeamNG.drive",
+        "price": 22.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:44"
+    },
+    {
+        "id": "299050",
+        "name": "Blood II: The Chosen + Expansion",
+        "price": 4.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:46:46"
+    },
+    {
+        "id": "311720",
+        "name": "Sproggiwood",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:47:29"
+    },
+    {
+        "id": "314650",
+        "name": "SpaceEngine",
+        "price": 28.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:47:30"
+    },
+    {
+        "id": "326150",
+        "name": "Death Skid Marks",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:47:32"
+    },
+    {
+        "id": "333640",
+        "name": "Caves of Qud",
+        "price": 28.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:47:33"
+    },
+    {
+        "id": "334290",
+        "name": "Gates of Horizon",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:47:34"
+    },
+    {
+        "id": "380080",
+        "name": "SONAR Steam Editions",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:47:36"
+    },
+    {
+        "id": "383740",
+        "name": "Marble Age: Remastered",
+        "price": 9.75,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:47:37"
+    },
+    {
+        "id": "397150",
+        "name": "Stellar Overload",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:47:38"
+    },
+    {
+        "id": "418530",
+        "name": "Spelunky 2",
+        "price": 5.87,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:47:40"
+    },
+    {
+        "id": "486860",
+        "name": "MMORPG Tycoon 2",
+        "price": 20.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:47:41"
+    },
+    {
+        "id": "490280",
+        "name": "Realms of Magic",
+        "price": 18.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:47:42"
+    },
+    {
+        "id": "491540",
+        "name": "The Bus",
+        "price": 38.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:47:43"
+    },
+    {
+        "id": "497800",
+        "name": "Golden Krone Hotel",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:47:45"
+    },
+    {
+        "id": "526870",
+        "name": "Satisfactory",
+        "price": 38.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:47:46"
+    },
+    {
+        "id": "536220",
+        "name": "The Walking Dead: A New Frontier",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:47:47"
+    },
+    {
+        "id": "538030",
+        "name": "Xenonauts 2",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:47:49"
+    },
+    {
+        "id": "552600",
+        "name": "Outscape",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:47:50"
+    },
+    {
+        "id": "562350",
+        "name": "Maid Mansion",
+        "price": 10.35,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:47:51"
+    },
+    {
+        "id": "570090",
+        "name": "articy:draft 3",
+        "price": 69.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:47:53"
+    },
+    {
+        "id": "571260",
+        "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
+        "price": 54.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:47:54"
+    },
+    {
+        "id": "573100",
+        "name": "Battlefleet Gothic: Armada 2",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:47:55"
+    },
+    {
+        "id": "576770",
+        "name": "Low Magic Age",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:47:56"
+    },
+    {
+        "id": "578650",
+        "name": "The Outer Worlds",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:47:58"
+    },
+    {
+        "id": "585410",
+        "name": "[Unsupported] GameMaker Studio 2 Desktop",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:47:59"
+    },
+    {
+        "id": "588030",
+        "name": "Derail Valley",
+        "price": 38.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:48:00"
+    },
+    {
+        "id": "588650",
+        "name": "Dead Cells",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:48:02"
+    },
+    {
+        "id": "592580",
+        "name": "PRO EVOLUTION SOCCER 2018",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 14:48:04"
+    },
+    {
+        "id": "600480",
+        "name": "Megaquarium",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:48:05"
+    },
+    {
+        "id": "604540",
+        "name": "Empire of Sin",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:48:06"
+    },
+    {
+        "id": "625960",
+        "name": "Stoneshard",
+        "price": 17.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:03"
+    },
+    {
+        "id": "637650",
+        "name": "FINAL FANTASY XV WINDOWS EDITION",
+        "price": 13.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:04"
+    },
+    {
+        "id": "638510",
+        "name": "dotAGE",
+        "price": 17.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:06"
+    },
+    {
+        "id": "646668",
+        "name": "Pinball FX3 - Bethesda® Pinball",
+        "price": 10.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:07"
+    },
+    {
+        "id": "648410",
+        "name": "Colony Ship: A Post-Earth Role Playing Game",
+        "price": 37.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:09"
+    },
+    {
+        "id": "656350",
+        "name": "UnderMine",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:10"
+    },
+    {
+        "id": "667610",
+        "name": "Ancient Cities",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:12"
+    },
+    {
+        "id": "694770",
+        "name": "Vestaria Saga I: War of the Scions",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:13"
+    },
+    {
+        "id": "711980",
+        "name": "Starship EVO",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:14"
+    },
+    {
+        "id": "712640",
+        "name": "Don't Starve: Hamlet",
+        "price": 5.69,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:16"
+    },
+    {
+        "id": "720620",
+        "name": "TaleSpire",
+        "price": 20.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:17"
+    },
+    {
+        "id": "726110",
+        "name": "Overcrowd: A Commute 'Em Up",
+        "price": 18.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:18"
+    },
+    {
+        "id": "733140",
+        "name": "ENDLESS™ Space 2 - Vaulters",
+        "price": 10.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:20"
+    },
+    {
+        "id": "740130",
+        "name": "Tales of Arise",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:21"
+    },
+    {
+        "id": "746850",
+        "name": "Cloudpunk",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:23"
+    },
+    {
+        "id": "753640",
+        "name": "Outer Wilds",
+        "price": 22.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:24"
+    },
+    {
+        "id": "765810",
+        "name": "Mars Horizon",
+        "price": 17.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:25"
+    },
+    {
+        "id": "773790",
+        "name": "Ostriv",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:27"
+    },
+    {
+        "id": "777150",
+        "name": "Adventure Land - The Code MMORPG",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:28"
+    },
+    {
+        "id": "777470",
+        "name": "The Infinite Black 2",
+        "price": 6.89,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:29"
+    },
+    {
+        "id": "788630",
+        "name": "Gaia Beyond",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:31"
+    },
+    {
+        "id": "798460",
+        "name": "Ni no Kuni Wrath of the White Witch™ Remastered",
+        "price": 49.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:32"
+    },
+    {
+        "id": "799600",
+        "name": "Cosmoteer: Starship Architect & Commander",
+        "price": 18.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:33"
+    },
+    {
+        "id": "807120",
+        "name": "Iratus: Lord of the Dead",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:35"
+    },
+    {
+        "id": "809140",
+        "name": "Cliff Empire",
+        "price": 12.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:36"
+    },
+    {
+        "id": "814380",
+        "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
+        "price": 59.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:37"
+    },
+    {
+        "id": "817840",
+        "name": "Max Gentlemen Sexy Business!",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:38"
+    },
+    {
+        "id": "823610",
+        "name": "Dungeon Of Dragon Knight",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:40"
+    },
+    {
+        "id": "823910",
+        "name": "Last Evil",
+        "price": 8.19,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:41"
+    },
+    {
+        "id": "838310",
+        "name": "Bloodstained: Curse of the Moon",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:42"
+    },
+    {
+        "id": "840390",
+        "name": "Spacebase Startopia",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:44"
+    },
+    {
+        "id": "846770",
+        "name": "DYSMANTLE",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:45"
+    },
+    {
+        "id": "848450",
+        "name": "Subnautica: Below Zero",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:47"
+    },
+    {
+        "id": "848480",
+        "name": "Creeper World 4",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:48"
+    },
+    {
+        "id": "849100",
+        "name": "Alaskan Road Truckers",
+        "price": 21.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:57:49"
+    },
+    {
+        "id": "854750",
+        "name": "ENDLESS™ Legend - Inferno",
+        "price": 12.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:59:49"
+    },
+    {
+        "id": "858810",
+        "name": "Dawn of Man",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:59:51"
+    },
+    {
+        "id": "865940",
+        "name": "SNK 40th ANNIVERSARY COLLECTION",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:59:52"
+    },
+    {
+        "id": "866570",
+        "name": "System Shock 2: 25th Anniversary Remaster",
+        "price": 21.74,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:59:53"
+    },
+    {
+        "id": "867290",
+        "name": "Crossroads Inn Anniversary Edition",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:59:55"
+    },
+    {
+        "id": "879000",
+        "name": "Comanche",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:59:56"
+    },
+    {
+        "id": "885970",
+        "name": "Total War: ROME REMASTERED",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:59:57"
+    },
+    {
+        "id": "887570",
+        "name": "NEBULOUS: Fleet Command",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 14:59:59"
+    },
+    {
+        "id": "892970",
+        "name": "Valheim",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:00"
+    },
+    {
+        "id": "895480",
+        "name": "Fates of Ort",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:01"
+    },
+    {
+        "id": "897670",
+        "name": "Grim Dawn - Forgotten Gods Expansion",
+        "price": 15.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:03"
+    },
+    {
+        "id": "898720",
+        "name": "Kubifaktorium",
+        "price": 8.39,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:05"
+    },
+    {
+        "id": "899770",
+        "name": "Last Epoch",
+        "price": 33.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:06"
+    },
+    {
+        "id": "908360",
+        "name": "Monomyth",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:07"
+    },
+    {
+        "id": "909320",
+        "name": "Ruinarch",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:09"
+    },
+    {
+        "id": "911430",
+        "name": "Good Company",
+        "price": 22.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:10"
+    },
+    {
+        "id": "920210",
+        "name": "LEGO® Star Wars™: The Skywalker Saga",
+        "price": 49.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:12"
+    },
+    {
+        "id": "925650",
+        "name": "Euro Truck Simulator 2 - Space Paint Jobs Pack",
+        "price": 1.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:13"
+    },
+    {
+        "id": "930210",
+        "name": "HuniePop 2: Double Date",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:15"
+    },
+    {
+        "id": "949230",
+        "name": "Cities: Skylines II",
+        "price": 49.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:16"
+    },
+    {
+        "id": "950370",
+        "name": "Tactics & Strategy Master 2:Princess of Holy Light（圣光战姬）",
+        "price": 4.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:17"
+    },
+    {
+        "id": "954850",
+        "name": "Kerbal Space Program 2",
+        "price": 49.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:19"
+    },
+    {
+        "id": "955900",
+        "name": "Amazing Cultivation Simulator",
+        "price": 20.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:20"
+    },
+    {
+        "id": "956450",
+        "name": "Rogue Fable III",
+        "price": 8.19,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:22"
+    },
+    {
+        "id": "961150",
+        "name": "Star Control: Origins - Earth Rising Expansion",
+        "price": 9.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:23"
+    },
+    {
+        "id": "965230",
+        "name": "DORAEMON  STORY OF SEASONS",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:24"
+    },
+    {
+        "id": "966690",
+        "name": "Two Point Hospital: Bigfoot",
+        "price": 8.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:26"
+    },
+    {
+        "id": "969270",
+        "name": "Glass Masquerade - Halloween Puzzle Pack",
+        "price": 0.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:27"
+    },
+    {
+        "id": "975370",
+        "name": "Dwarf Fortress",
+        "price": 28.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:29"
+    },
+    {
+        "id": "976590",
+        "name": "Bus Simulator 21 Next Stop",
+        "price": 34.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:30"
+    },
+    {
+        "id": "976730",
+        "name": "Halo: The Master Chief Collection",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:32"
+    },
+    {
+        "id": "979110",
+        "name": "Space Haven",
+        "price": 21.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:34"
+    },
+    {
+        "id": "981430",
+        "name": "Gordian Quest",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:35"
+    },
+    {
+        "id": "983870",
+        "name": "FOUNDRY",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:36"
+    },
+    {
+        "id": "989690",
+        "name": "Conan Unconquered",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:38"
+    },
+    {
+        "id": "992300",
+        "name": "嗜血印 Bloody Spell",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:39"
+    },
+    {
+        "id": "993090",
+        "name": "Lossless Scaling",
+        "price": 3.44,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:41"
+    },
+    {
+        "id": "997010",
+        "name": "Police Simulator: Patrol Officers",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:00:42"
+    },
+    {
+        "id": "1003310",
+        "name": "Two Point Hospital: Pebberley Island",
+        "price": 8.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:32"
+    },
+    {
+        "id": "1016870",
+        "name": "FINAL FANTASY XIV: Shadowbringers",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:06:34"
+    },
+    {
+        "id": "1017180",
+        "name": "The Long Drive",
+        "price": 15.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:35"
+    },
+    {
+        "id": "1022910",
+        "name": "Offworld Trading Company: The Europa Wager Expansion",
+        "price": 13.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:36"
+    },
+    {
+        "id": "1026680",
+        "name": "FINAL FANTASY VIII - REMASTERED",
+        "price": 7.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:37"
+    },
+    {
+        "id": "1030210",
+        "name": "Torchlight III",
+        "price": 5.09,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:39"
+    },
+    {
+        "id": "1034140",
+        "name": "Subverse",
+        "price": 38.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:40"
+    },
+    {
+        "id": "1034860",
+        "name": "GRANDIA HD Remaster",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:41"
+    },
+    {
+        "id": "1035120",
+        "name": "Lust from Beyond",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:42"
+    },
+    {
+        "id": "1042670",
+        "name": "Orangeblood",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:44"
+    },
+    {
+        "id": "1044720",
+        "name": "Farthest Frontier",
+        "price": 33.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:45"
+    },
+    {
+        "id": "1056761",
+        "name": "Euro Truck Simulator 2 - Actros Tuning Pack",
+        "price": 3.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:46"
+    },
+    {
+        "id": "1058130",
+        "name": "Queen's Wish: The Conqueror",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:47"
+    },
+    {
+        "id": "1060230",
+        "name": "Sapiens",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:49"
+    },
+    {
+        "id": "1061610",
+        "name": "Tenderfoot Tactics",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:50"
+    },
+    {
+        "id": "1062520",
+        "name": "Dinkum",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:51"
+    },
+    {
+        "id": "1066780",
+        "name": "Transport Fever 2",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:52"
+    },
+    {
+        "id": "1067860",
+        "name": "NewCity",
+        "price": 8.19,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:54"
+    },
+    {
+        "id": "1069160",
+        "name": "SKALD: Against the Black Priory",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:55"
+    },
+    {
+        "id": "1078280",
+        "name": "Ruins Seeker",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:56"
+    },
+    {
+        "id": "1079320",
+        "name": "Dragon Extinction",
+        "price": 12.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:58"
+    },
+    {
+        "id": "1079510",
+        "name": "Sumerians",
+        "price": 16.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:06:59"
+    },
+    {
+        "id": "1082710",
+        "name": "Bug Fables: The Everlasting Sapling",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:07:00"
+    },
+    {
+        "id": "1086940",
+        "name": "Baldur's Gate 3",
+        "price": 59.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:07:01"
+    },
+    {
+        "id": "1096530",
+        "name": "Solasta: Crown of the Magister",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:07:03"
+    },
+    {
+        "id": "1096580",
+        "name": "Two Point Hospital: Close Encounters",
+        "price": 8.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:07:04"
+    },
+    {
+        "id": "1104680",
+        "name": "Atari Vault - 50 Game Add-On Pack",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:07:56"
+    },
+    {
+        "id": "1105670",
+        "name": "The Last Spell",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:07:58"
+    },
+    {
+        "id": "1106840",
+        "name": "Hydroneer",
+        "price": 5.17,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:07:59"
+    },
+    {
+        "id": "1112790",
+        "name": "Automation Empire",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:00"
+    },
+    {
+        "id": "1113120",
+        "name": "IXION",
+        "price": 33.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:02"
+    },
+    {
+        "id": "1113400",
+        "name": "Alliance of the Sacred Suns",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:08:03"
+    },
+    {
+        "id": "1113560",
+        "name": "NieR Replicant™ ver.1.22474487139...",
+        "price": 23.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:04"
+    },
+    {
+        "id": "1119730",
+        "name": "Ranch Simulator: Build, Hunt, Farm",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:06"
+    },
+    {
+        "id": "1123830",
+        "name": "Farm Manager 2021",
+        "price": 19.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:07"
+    },
+    {
+        "id": "1126290",
+        "name": "Lost",
+        "price": 2.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:09"
+    },
+    {
+        "id": "1128920",
+        "name": "EVERSPACE™ 2",
+        "price": 49.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:10"
+    },
+    {
+        "id": "1129580",
+        "name": "Medieval Dynasty",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:13"
+    },
+    {
+        "id": "1133870",
+        "name": "Space Engineers 2",
+        "price": 28.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:14"
+    },
+    {
+        "id": "1134710",
+        "name": "NIMBY Rails",
+        "price": 18.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:15"
+    },
+    {
+        "id": "1135740",
+        "name": "Utopia",
+        "price": 3.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:16"
+    },
+    {
+        "id": "1137940",
+        "name": "Horizon Chase Turbo - Summer Vibes",
+        "price": 1.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:19"
+    },
+    {
+        "id": "1138080",
+        "name": "ddz shaonv",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:08:20"
+    },
+    {
+        "id": "1140001",
+        "name": "Stellaris: Federations",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:21"
+    },
+    {
+        "id": "1141100",
+        "name": "Lilitales",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:23"
+    },
+    {
+        "id": "1142710",
+        "name": "Total War: WARHAMMER III",
+        "price": 59.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:25"
+    },
+    {
+        "id": "1147860",
+        "name": "UFO 50",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:26"
+    },
+    {
+        "id": "1150090",
+        "name": "Learning Factory",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:28"
+    },
+    {
+        "id": "1153640",
+        "name": "Chorus",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:29"
+    },
+    {
+        "id": "1154030",
+        "name": "Titan Quest II",
+        "price": 34.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:31"
+    },
+    {
+        "id": "1154850",
+        "name": "9th Dawn III",
+        "price": 13.29,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:32"
+    },
+    {
+        "id": "1157390",
+        "name": "King Arthur: Knight's Tale",
+        "price": 44.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:33"
+    },
+    {
+        "id": "1169040",
+        "name": "Necesse",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:35"
+    },
+    {
+        "id": "1172380",
+        "name": "STAR WARS Jedi: Fallen Order™",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:36"
+    },
+    {
+        "id": "1172710",
+        "name": "Dune: Awakening",
+        "price": 49.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:37"
+    },
+    {
+        "id": "1172940",
+        "name": "Cockwork Industries Complete",
+        "price": 8.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:39"
+    },
+    {
+        "id": "1173400",
+        "name": "Futa Fix Dick Dine and Dash",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:40"
+    },
+    {
+        "id": "1173770",
+        "name": "FINAL FANTASY",
+        "price": 7.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:41"
+    },
+    {
+        "id": "1173780",
+        "name": "FINAL FANTASY II",
+        "price": 7.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:43"
+    },
+    {
+        "id": "1175830",
+        "name": "Legend of Mana",
+        "price": 11.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:44"
+    },
+    {
+        "id": "1176470",
+        "name": "Terra Invicta",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:45"
+    },
+    {
+        "id": "1182110",
+        "name": "Weed Shop 3",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:47"
+    },
+    {
+        "id": "1190000",
+        "name": "Car Mechanic Simulator 2021",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:48"
+    },
+    {
+        "id": "1196150",
+        "name": "Two Point Hospital: Off the Grid",
+        "price": 8.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:49"
+    },
+    {
+        "id": "1198090",
+        "name": "The Legend of Heroes: Trails of Cold Steel IV",
+        "price": 59.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:08:50"
+    },
+    {
+        "id": "1203620",
+        "name": "Enshrouded",
+        "price": 23.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:10"
+    },
+    {
+        "id": "1205950",
+        "name": "Seeds of Chaos",
+        "price": 11.75,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:11"
+    },
+    {
+        "id": "1206560",
+        "name": "WorldBox - God Simulator",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:12"
+    },
+    {
+        "id": "1213740",
+        "name": "She Will Punish Them",
+        "price": 13.29,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:14"
+    },
+    {
+        "id": "1222140",
+        "name": "Detroit: Become Human",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:15"
+    },
+    {
+        "id": "1233170",
+        "name": "Utopia Colony",
+        "price": 13.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:16"
+    },
+    {
+        "id": "1238000",
+        "name": "Mass Effect™: Andromeda Deluxe Edition",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:17"
+    },
+    {
+        "id": "1239080",
+        "name": "Door Kickers 2: Task Force North",
+        "price": 24,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:19"
+    },
+    {
+        "id": "1248130",
+        "name": "Farming Simulator 22",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:20"
+    },
+    {
+        "id": "1250410",
+        "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+        "price": 69.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:21"
+    },
+    {
+        "id": "1259420",
+        "name": "Days Gone",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:23"
+    },
+    {
+        "id": "1259740",
+        "name": "Escape Dungeon",
+        "price": 12.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:24"
+    },
+    {
+        "id": "1260820",
+        "name": "Third Crisis",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:25"
+    },
+    {
+        "id": "1263370",
+        "name": "Seek Girl:Fog Ⅰ",
+        "price": 5.55,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:26"
+    },
+    {
+        "id": "1264250",
+        "name": "Fishing: North Atlantic - Enhanced Edition",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:28"
+    },
+    {
+        "id": "1264710",
+        "name": "Love and Sex: Second Base",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:29"
+    },
+    {
+        "id": "1265930",
+        "name": "Life is Strange: Before the Storm Remastered",
+        "price": 11.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:30"
+    },
+    {
+        "id": "1266340",
+        "name": "Arcane Waters",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:09:32"
+    },
+    {
+        "id": "1266540",
+        "name": "Ships At Sea",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:33"
+    },
+    {
+        "id": "1268590",
+        "name": "Millennia",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:34"
+    },
+    {
+        "id": "1273400",
+        "name": "Construction Simulator",
+        "price": 34.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:36"
+    },
+    {
+        "id": "1284190",
+        "name": "The Planet Crafter",
+        "price": 11.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:37"
+    },
+    {
+        "id": "1292690",
+        "name": "Corruption of Champions II",
+        "price": 8.19,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:38"
+    },
+    {
+        "id": "1293830",
+        "name": "Forza Horizon 4",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:09:39"
+    },
+    {
+        "id": "1295660",
+        "name": "Sid Meier's Civilization VII",
+        "price": 69.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:41"
+    },
+    {
+        "id": "1299620",
+        "name": "Fabled Lands",
+        "price": 18.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:42"
+    },
+    {
+        "id": "1307550",
+        "name": "Craftopia",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:43"
+    },
+    {
+        "id": "1307890",
+        "name": "Kingdoms Reborn",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:45"
+    },
+    {
+        "id": "1308700",
+        "name": "Wizardry: The Five Ordeals",
+        "price": 38.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:46"
+    },
+    {
+        "id": "1317160",
+        "name": "Children of Morta: Paws and Claws",
+        "price": 1.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:47"
+    },
+    {
+        "id": "1327080",
+        "name": "Tower and Sword of Succubus",
+        "price": 10.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:48"
+    },
+    {
+        "id": "1328670",
+        "name": "Mass Effect™ Legendary Edition",
+        "price": 59.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:50"
+    },
+    {
+        "id": "1330000",
+        "name": "Stolen Realm",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:51"
+    },
+    {
+        "id": "1330190",
+        "name": "A Town Uncovered",
+        "price": 6.24,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:52"
+    },
+    {
+        "id": "1330460",
+        "name": "Becastled",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:54"
+    },
+    {
+        "id": "1336180",
+        "name": "Floodland",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:55"
+    },
+    {
+        "id": "1342330",
+        "name": "Mad Games Tycoon 2",
+        "price": 20.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:56"
+    },
+    {
+        "id": "1351080",
+        "name": "Pharaoh™: A New Era",
+        "price": 22.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:57"
+    },
+    {
+        "id": "1355090",
+        "name": "RAILGRADE",
+        "price": 28.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:09:59"
+    },
+    {
+        "id": "1356670",
+        "name": "Sakuna: Of Rice and Ruin",
+        "price": 13.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:10:00"
+    },
+    {
+        "id": "1358250",
+        "name": "City of Broken Dreamers: Book One",
+        "price": 8.19,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:10:01"
+    },
+    {
+        "id": "1363080",
+        "name": "Manor Lords",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:10:03"
+    },
+    {
+        "id": "1366540",
+        "name": "Dyson Sphere Program",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:10:04"
+    },
+    {
+        "id": "1368820",
+        "name": "RollerCoaster Tycoon® 3: Complete Edition",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:10:06"
+    },
+    {
+        "id": "1371750",
+        "name": "T-Minus 30",
+        "price": 9.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:10:07"
+    },
+    {
+        "id": "1374490",
+        "name": "RuneScape: Dragonwilds",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:10:08"
+    },
+    {
+        "id": "1380070",
+        "name": "Slaves of Rome",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:10:09"
+    },
+    {
+        "id": "1384030",
+        "name": "Boppio",
+        "price": 8.19,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:12:59"
+    },
+    {
+        "id": "1391280",
+        "name": "3D Hentai Chess",
+        "price": 1.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:00"
+    },
+    {
+        "id": "1394100",
+        "name": "S.H.E.L.T.E.R. - An Apocalyptic Tale",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:01"
+    },
+    {
+        "id": "1406990",
+        "name": "NEKOPARA Vol. 4",
+        "price": 9.75,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:03"
+    },
+    {
+        "id": "1407210",
+        "name": "Space Rescue: Code Pink",
+        "price": 6.55,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:04"
+    },
+    {
+        "id": "1410710",
+        "name": "Democracy 4",
+        "price": 28.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:05"
+    },
+    {
+        "id": "1411740",
+        "name": "Urbek City Builder",
+        "price": 17.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:07"
+    },
+    {
+        "id": "1416710",
+        "name": "Strip Black Jack - At The Pub",
+        "price": 1.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:08"
+    },
+    {
+        "id": "1424710",
+        "name": "Geneforge 1 - Mutagen",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:09"
+    },
+    {
+        "id": "1426050",
+        "name": "Fractured Online",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:13:11"
+    },
+    {
+        "id": "1426450",
+        "name": "Age of Darkness: Final Stand",
+        "price": 26.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:12"
+    },
+    {
+        "id": "1432860",
+        "name": "Sun Haven",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:13"
+    },
+    {
+        "id": "1435900",
+        "name": "Route 66 Simulator",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:13:15"
+    },
+    {
+        "id": "1439750",
+        "name": "9-Bit Armies: A Bit Too Far",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:16"
+    },
+    {
+        "id": "1457150",
+        "name": "Leafling",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:13:17"
+    },
+    {
+        "id": "1459500",
+        "name": "Atlas Architect",
+        "price": 5.89,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:19"
+    },
+    {
+        "id": "1460040",
+        "name": "Love Fantasy",
+        "price": 1.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:20"
+    },
+    {
+        "id": "1462040",
+        "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:22"
+    },
+    {
+        "id": "1465360",
+        "name": "SnowRunner",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:23"
+    },
+    {
+        "id": "1465460",
+        "name": "Infection Free Zone",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:24"
+    },
+    {
+        "id": "1465470",
+        "name": "The Crust",
+        "price": 28.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:26"
+    },
+    {
+        "id": "1465950",
+        "name": "Phoenix Hope",
+        "price": 11.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:27"
+    },
+    {
+        "id": "1466860",
+        "name": "Age of Empires IV: Anniversary Edition",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:28"
+    },
+    {
+        "id": "1477810",
+        "name": "Robolife-Days with Aino",
+        "price": 12.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:30"
+    },
+    {
+        "id": "1490250",
+        "name": "Harem Hunter: Sex-ray Vision",
+        "price": 4.19,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:31"
+    },
+    {
+        "id": "1490930",
+        "name": "Capital Command",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:13:32"
+    },
+    {
+        "id": "1493470",
+        "name": "Prison Architect - Going Green",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:34"
+    },
+    {
+        "id": "1495320",
+        "name": "Carnal Instinct",
+        "price": 28.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:35"
+    },
+    {
+        "id": "1497160",
+        "name": "Surviving Mars: In-Dome Buildings Pack",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:13:36"
+    },
+    {
+        "id": "1501310",
+        "name": "The Ranchers",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:13:38"
+    },
+    {
+        "id": "1503580",
+        "name": "Epic City Builder 4",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:39"
+    },
+    {
+        "id": "1506260",
+        "name": "Funbag Fantasy 3if",
+        "price": 37.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:40"
+    },
+    {
+        "id": "1507420",
+        "name": "WanderLust",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:42"
+    },
+    {
+        "id": "1509510",
+        "name": "Settlement Survival",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:43"
+    },
+    {
+        "id": "1517850",
+        "name": "Quickie: A Love Hotel Story",
+        "price": 17.55,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:45"
+    },
+    {
+        "id": "1523650",
+        "name": "Stargate: Timekeepers",
+        "price": 28.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:46"
+    },
+    {
+        "id": "1525600",
+        "name": "Sensual Adventures - The Game",
+        "price": 20.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:47"
+    },
+    {
+        "id": "1527950",
+        "name": "Wartales",
+        "price": 34.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:49"
+    },
+    {
+        "id": "1533530",
+        "name": "Pixel Heroes",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:13:50"
+    },
+    {
+        "id": "1546010",
+        "name": "Fallen girl - Black rose and the fire of desire",
+        "price": 12.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:51"
+    },
+    {
+        "id": "1547890",
+        "name": "Let's Build a Zoo",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:53"
+    },
+    {
+        "id": "1561400",
+        "name": "Sylphine",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:13:54"
+    },
+    {
+        "id": "1573300",
+        "name": "WISH - Paradise High",
+        "price": 1.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:55"
+    },
+    {
+        "id": "1573730",
+        "name": "Helicopter Simulator VR 2021 - Rescue Missions",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:57"
+    },
+    {
+        "id": "1575940",
+        "name": "Sins of a Solar Empire II",
+        "price": 45.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:58"
+    },
+    {
+        "id": "1576280",
+        "name": "Moviehouse – The Film Studio Tycoon",
+        "price": 10.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:13:59"
+    },
+    {
+        "id": "1582500",
+        "name": "Purple War",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:18:49"
+    },
+    {
+        "id": "1585180",
+        "name": "Drova - Forsaken Kin",
+        "price": 18.74,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:18:50"
+    },
+    {
+        "id": "1586260",
+        "name": "BLACKFROST: The Long Dark 2",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:18:52"
+    },
+    {
+        "id": "1586350",
+        "name": "NEOGEO POCKET COLOR SELECTION Vol. 1 Steam Edition",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:18:53"
+    },
+    {
+        "id": "1591420",
+        "name": "Hmmsim Metro",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:18:54"
+    },
+    {
+        "id": "1593030",
+        "name": "Terra Nil",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:18:55"
+    },
+    {
+        "id": "1593500",
+        "name": "God of War",
+        "price": 49.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:18:57"
+    },
+    {
+        "id": "1594320",
+        "name": "Captain of Industry",
+        "price": 33.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:18:58"
+    },
+    {
+        "id": "1595030",
+        "name": "Bad Memories",
+        "price": 8.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:18:59"
+    },
+    {
+        "id": "1601580",
+        "name": "Frostpunk 2",
+        "price": 44.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:00"
+    },
+    {
+        "id": "1607130",
+        "name": "Lust Theory - Season 1",
+        "price": 17.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:02"
+    },
+    {
+        "id": "1608540",
+        "name": "Horizon Chase Turbo - Senna Forever",
+        "price": 5.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:03"
+    },
+    {
+        "id": "1612770",
+        "name": "Sweet Transit",
+        "price": 6.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:04"
+    },
+    {
+        "id": "1622900",
+        "name": "Star Trek: Infinite",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:05"
+    },
+    {
+        "id": "1642620",
+        "name": "COLLECTION of SaGa FINAL FANTASY LEGEND",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:07"
+    },
+    {
+        "id": "1657630",
+        "name": "Slime Rancher 2",
+        "price": 17.09,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:08"
+    },
+    {
+        "id": "1661180",
+        "name": "Signals",
+        "price": 8.19,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:09"
+    },
+    {
+        "id": "1674820",
+        "name": "TFC: The Fertile Crescent",
+        "price": 10.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:11"
+    },
+    {
+        "id": "1683150",
+        "name": "Railroader",
+        "price": 28.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:12"
+    },
+    {
+        "id": "1685960",
+        "name": "Operation Lovecraft: Fallen Doll",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:19:13"
+    },
+    {
+        "id": "1689500",
+        "name": "Dune: Imperium",
+        "price": 22.54,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:15"
+    },
+    {
+        "id": "1693980",
+        "name": "Dead Space",
+        "price": 59.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:16"
+    },
+    {
+        "id": "1702010",
+        "name": "Sengoku Dynasty",
+        "price": 26.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:17"
+    },
+    {
+        "id": "1708520",
+        "name": "F1® Manager 2022",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:19:19"
+    },
+    {
+        "id": "1715590",
+        "name": "Wizordum",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:20"
+    },
+    {
+        "id": "1716740",
+        "name": "Starfield",
+        "price": 69.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:21"
+    },
+    {
+        "id": "1734320",
+        "name": "Brutal Orchestra",
+        "price": 16.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:23"
+    },
+    {
+        "id": "1743830",
+        "name": "One Military Camp",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:24"
+    },
+    {
+        "id": "1750770",
+        "name": "Starcom: Unknown Space",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:25"
+    },
+    {
+        "id": "1761290",
+        "name": "Japanese Rail Sim: Journey to Kyoto",
+        "price": 49.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:26"
+    },
+    {
+        "id": "1768640",
+        "name": "Leap of Faith",
+        "price": 10.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:28"
+    },
+    {
+        "id": "1771300",
+        "name": "Kingdom Come: Deliverance II",
+        "price": 59.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:29"
+    },
+    {
+        "id": "1774580",
+        "name": "STAR WARS Jedi: Survivor™",
+        "price": 69.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:30"
+    },
+    {
+        "id": "1786790",
+        "name": "Magical Girl Celesphonia",
+        "price": 16.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:31"
+    },
+    {
+        "id": "1796790",
+        "name": "Chef RPG",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:33"
+    },
+    {
+        "id": "1816300",
+        "name": "HARVESTELLA",
+        "price": 23.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:34"
+    },
+    {
+        "id": "1817070",
+        "name": "Marvel’s Spider-Man Remastered",
+        "price": 59.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:35"
+    },
+    {
+        "id": "1822550",
+        "name": "Microcivilization",
+        "price": 13.11,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:37"
+    },
+    {
+        "id": "1829470",
+        "name": "Melody's Escape 2",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:38"
+    },
+    {
+        "id": "1846700",
+        "name": "Witchbrook",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:19:39"
+    },
+    {
+        "id": "1850510",
+        "name": "TRIANGLE STRATEGY",
+        "price": 23.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:40"
+    },
+    {
+        "id": "1852860",
+        "name": "AMID EVIL - The Black Labyrinth",
+        "price": 11.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:41"
+    },
+    {
+        "id": "1857090",
+        "name": "Norland",
+        "price": 29.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:43"
+    },
+    {
+        "id": "1863670",
+        "name": "Mystwood Manor",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:44"
+    },
+    {
+        "id": "1875060",
+        "name": "Reus 2",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:45"
+    },
+    {
+        "id": "1876590",
+        "name": "I Am Your Beast",
+        "price": 18.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:47"
+    },
+    {
+        "id": "1889930",
+        "name": "Baldur's Gate: Dark Alliance II",
+        "price": 38.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:48"
+    },
+    {
+        "id": "1893810",
+        "name": "Solium Infernum",
+        "price": 38.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:19:50"
+    },
+    {
+        "id": "1903340",
+        "name": "Clair Obscur: Expedition 33",
+        "price": 47.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:13"
+    },
+    {
+        "id": "1910860",
+        "name": "Grimlord",
+        "price": 28.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:14"
+    },
+    {
+        "id": "1914122",
+        "name": "[NA/EU] Black Desert - Traveler to Conqueror",
+        "price": 39.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:16"
+    },
+    {
+        "id": "1925650",
+        "name": "Stars Reach",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:20:17"
+    },
+    {
+        "id": "1932640",
+        "name": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars",
+        "price": 49.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:19"
+    },
+    {
+        "id": "1934680",
+        "name": "Age of Mythology: Retold",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:20"
+    },
+    {
+        "id": "1943730",
+        "name": "Wicked Island",
+        "price": 33.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:22"
+    },
+    {
+        "id": "1971650",
+        "name": "OCTOPATH TRAVELER II",
+        "price": 23.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:23"
+    },
+    {
+        "id": "1981570",
+        "name": "Land of the Vikings",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:24"
+    },
+    {
+        "id": "2052040",
+        "name": "Golden Lap",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:26"
+    },
+    {
+        "id": "2054970",
+        "name": "Dragon's Dogma 2",
+        "price": 27.29,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:27"
+    },
+    {
+        "id": "2058190",
+        "name": "Lost Judgment",
+        "price": 59.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:30"
+    },
+    {
+        "id": "2061230",
+        "name": "Chasm: The Rift",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:31"
+    },
+    {
+        "id": "2071280",
+        "name": "Ravenswatch",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:32"
+    },
+    {
+        "id": "2138090",
+        "name": "Atelier Marie Remake: The Alchemist of Salburg",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:34"
+    },
+    {
+        "id": "2140020",
+        "name": "Stronghold: Definitive Edition",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:35"
+    },
+    {
+        "id": "2141130",
+        "name": "Road Kings",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:20:36"
+    },
+    {
+        "id": "2142790",
+        "name": "Fields of Mistria",
+        "price": 13.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:38"
+    },
+    {
+        "id": "2155180",
+        "name": "Pioneers of Pagonia",
+        "price": 34.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:39"
+    },
+    {
+        "id": "2187220",
+        "name": "Apollo Justice: Ace Attorney Trilogy",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:40"
+    },
+    {
+        "id": "2198150",
+        "name": "Tiny Glade",
+        "price": 11.83,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:42"
+    },
+    {
+        "id": "2201470",
+        "name": "Remnant Protocol",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:20:43"
+    },
+    {
+        "id": "2228280",
+        "name": "MEMORIAPOLIS",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:44"
+    },
+    {
+        "id": "2236300",
+        "name": "Grand Emprise: Time Travel Survival",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:45"
+    },
+    {
+        "id": "2271930",
+        "name": "IfSunSets",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:47"
+    },
+    {
+        "id": "2295060",
+        "name": "Beyond These Stars",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:20:48"
+    },
+    {
+        "id": "2321470",
+        "name": "Deep Rock Galactic: Survivor",
+        "price": 12.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:49"
+    },
+    {
+        "id": "2342310",
+        "name": "Cities: Skylines - Hotels & Retreats",
+        "price": 7.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:51"
+    },
+    {
+        "id": "2344520",
+        "name": "Diablo® IV",
+        "price": 49.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:52"
+    },
+    {
+        "id": "2347080",
+        "name": "Frosthaven",
+        "price": 31.19,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:53"
+    },
+    {
+        "id": "2353250",
+        "name": "Astrometica",
+        "price": 19.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:55"
+    },
+    {
+        "id": "2379910",
+        "name": "Dystopika",
+        "price": 6.89,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:56"
+    },
+    {
+        "id": "2380050",
+        "name": "Star Trucker",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:57"
+    },
+    {
+        "id": "2382520",
+        "name": "Erenshor",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:20:59"
+    },
+    {
+        "id": "2398490",
+        "name": "Classic Marathon 2",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:21:00"
+    },
+    {
+        "id": "2398520",
+        "name": "Classic Marathon Infinity",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:21:01"
+    },
+    {
+        "id": "2420110",
+        "name": "Horizon Forbidden West™ Complete Edition",
+        "price": 59.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:03"
+    },
+    {
+        "id": "2426530",
+        "name": "Nova Roma",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:21:04"
+    },
+    {
+        "id": "2435090",
+        "name": "Talented",
+        "price": 3.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:05"
+    },
+    {
+        "id": "2457220",
+        "name": "Avowed",
+        "price": 69.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:07"
+    },
+    {
+        "id": "2480560",
+        "name": "Geneforge 2 - Infestation",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:08"
+    },
+    {
+        "id": "2493960",
+        "name": "Abyss",
+        "price": 24.47,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:09"
+    },
+    {
+        "id": "2553870",
+        "name": "The Genesis Order",
+        "price": 9.61,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:11"
+    },
+    {
+        "id": "2585150",
+        "name": "American Truck Simulator - Arkansas",
+        "price": 11.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:12"
+    },
+    {
+        "id": "2587430",
+        "name": "Old World - Wonders and Dynasties",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:13"
+    },
+    {
+        "id": "2591280",
+        "name": "F1® Manager 2024",
+        "price": 34.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:14"
+    },
+    {
+        "id": "2604420",
+        "name": "Euro Truck Simulator 2 - Greece",
+        "price": 11.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:16"
+    },
+    {
+        "id": "2615010",
+        "name": "Necromantic",
+        "price": 6.89,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:17"
+    },
+    {
+        "id": "2623190",
+        "name": "The Elder Scrolls IV: Oblivion Remastered",
+        "price": 54.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:18"
+    },
+    {
+        "id": "2632830",
+        "name": "The Expanse: A Telltale Series - Archangel",
+        "price": 5.89,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:20"
+    },
+    {
+        "id": "2653940",
+        "name": "Star Trek: Resurgence",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:21"
+    },
+    {
+        "id": "2677660",
+        "name": "Indiana Jones and the Great Circle",
+        "price": 69.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:22"
+    },
+    {
+        "id": "2679460",
+        "name": "Metaphor: ReFantazio",
+        "price": 69.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:23"
+    },
+    {
+        "id": "2688950",
+        "name": "Planet Coaster 2",
+        "price": 49.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:25"
+    },
+    {
+        "id": "2698780",
+        "name": "ContractVille",
+        "price": 9.75,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:26"
+    },
+    {
+        "id": "2756920",
+        "name": "Keep Driving",
+        "price": 14.4,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:27"
+    },
+    {
+        "id": "2760580",
+        "name": "Mars Attracts",
+        "price": 24.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:28"
+    },
+    {
+        "id": "2769570",
+        "name": "Fable",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:21:30"
+    },
+    {
+        "id": "2775650",
+        "name": "Atari 50: The Wider World of Atari",
+        "price": 7.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:31"
+    },
+    {
+        "id": "2784470",
+        "name": "9 Kings",
+        "price": 19.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:32"
+    },
+    {
+        "id": "2786680",
+        "name": "Knowledge, or know Lady",
+        "price": 8.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:34"
+    },
+    {
+        "id": "2807090",
+        "name": "Dune: Spice Wars - House Vernius of Ix",
+        "price": 12.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:35"
+    },
+    {
+        "id": "2864890",
+        "name": "Magic Research 2",
+        "price": 5.89,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:36"
+    },
+    {
+        "id": "2897760",
+        "name": "Romantic Escapades",
+        "price": 19.5,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:38"
+    },
+    {
+        "id": "2899050",
+        "name": "Desert Stalker",
+        "price": 15.74,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:39"
+    },
+    {
+        "id": "2909400",
+        "name": "FINAL FANTASY VII REBIRTH",
+        "price": 34.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:40"
+    },
+    {
+        "id": "2993780",
+        "name": "FANTASY LIFE i: The Girl Who Steals Time",
+        "price": 59.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:42"
+    },
+    {
+        "id": "3003800",
+        "name": "Warhammer 40,000: Inquisitor - Martyr - Hierophant Class",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:43"
+    },
+    {
+        "id": "3017860",
+        "name": "DOOM: The Dark Ages",
+        "price": 79.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:44"
+    },
+    {
+        "id": "3030720",
+        "name": "FATE: Reawakened",
+        "price": 24.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:45"
+    },
+    {
+        "id": "3075500",
+        "name": "Against the Storm - Keepers of the Stone",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:47"
+    },
+    {
+        "id": "3101170",
+        "name": "Atari 50: The First Console War",
+        "price": 7.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:48"
+    },
+    {
+        "id": "3107230",
+        "name": "Pantheon: Rise of the Fallen",
+        "price": 38.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:49"
+    },
+    {
+        "id": "3115220",
+        "name": "Town to City",
+        "price": 21.24,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:50"
+    },
+    {
+        "id": "3243700",
+        "name": "RPG Maker MV - Card Game Combat Deckbuilder Engine",
+        "price": 43.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:52"
+    },
+    {
+        "id": "3336530",
+        "name": "Embers Adrift",
+        "price": 28.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:53"
+    },
+    {
+        "id": "3358250",
+        "name": "Loot of Baal",
+        "price": 8.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:54"
+    },
+    {
+        "id": "3406150",
+        "name": "Old World - Wrath of Gods",
+        "price": 9.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:55"
+    },
+    {
+        "id": "3483740",
+        "name": "Cast n Chill",
+        "price": 14.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:57"
+    },
+    {
+        "id": "3556750",
+        "name": "Warhammer 40,000: Dawn of War - Definitive Edition",
+        "price": 28.49,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:58"
+    },
+    {
+        "id": "3725110",
+        "name": "Against the Storm - Nightwatchers",
+        "price": 14.99,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:21:59"
+    },
+    {
+        "id": "3756260",
+        "name": "Kingdom of Velvet Сhains",
+        "price": 12.79,
+        "currency": "EUR",
+        "date_checked": "2025-11-19 15:22:01"
+    },
+    {
+        "id": "3809270",
+        "name": "Euro Truck Simulator 2 - Coaches",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:22:02"
+    },
+    {
+        "id": "4165910",
+        "name": "Steam Machine",
+        "price": 0,
+        "currency": "FREE",
+        "date_checked": "2025-11-19 15:22:04"
+    }
+]

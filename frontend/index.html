@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Steam Price Checker Local</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 40px auto;
+        }
+        textarea {
+            width: 100%;
+            height: 150px;
+            margin-bottom: 20px;
+        }
+        button {
+            padding: 15px;
+            width: 100%;
+            background: #1b2838;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background: #324859;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Steam Price Checker Local</h2>
+<p>Cole aqui os IDs dos jogos (um por linha):</p>
+
+<textarea id="steamIDs" placeholder="Exemplo:\n620\n730\n1091500"></textarea>
+
+<button onclick="generateJSON()">Gerar JSON</button>
+
+<script>
+async function generateJSON() {
+    const raw = document.getElementById("steamIDs").value.trim();
+
+    if (!raw) {
+        alert("Por favor, insira IDs.");
+        return;
+    }
+
+    const ids = raw.split("\n").map(id => id.trim()).filter(id => id !== "");
+
+    const response = await fetch("http://127.0.0.1:8000/check-prices", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ ids })
+    });
+
+    const data = await response.json();
+
+    const blob = new Blob([JSON.stringify(data.results, null, 4)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "steam_prices.json";
+    a.click();
+
+    URL.revokeObjectURL(url);
+}
+</script>
+
+</body>
+</html>
